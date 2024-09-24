@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinsabbal2002&label=Profile%20views&color=0e75b6&style=flat" alt="sachinsabbal2002" /> </p>
 
-- 🔭 I’m currently studying computer science [https://flye-news-app-wbod.vercel.app/](https://flye-news-app-wbod.vercel.app/)
-
-- 👯 I’m looking to collaborate on [https://texconsultancy.vercel.app/](https://texconsultancy.vercel.app/)
+- 🔭 I’m currently studying computer science & engineering
 
 - 📫 How to reach me **sachinsabal2001@gmail.com**
 
